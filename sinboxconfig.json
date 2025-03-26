@@ -65,7 +65,7 @@
   { "tag": "GLOBAL", "type": "selector", "outbounds": ["{all}"] },
   { "tag": "🎯 全球直连", "type": "direct" },
   { "tag": "dns-out", "type": "dns" }
-]
+],
 
 "route": {
       "auto_detect_interface": true,
